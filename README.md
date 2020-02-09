@@ -5,3 +5,5 @@
 * docker build -t [nomeContainer] . (PONTO indica aonde esta localizado o Dockerfile, neste caso na mesma pasta)
 ## docker run – Runs a command in a new container
 * docker run -p 3000:3000 -d [nomeContainer]
+
+> comandos executados em powershell
